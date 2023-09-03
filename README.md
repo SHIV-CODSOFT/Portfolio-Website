@@ -1,2 +1,2 @@
-# Landing-page
-I developed a landing page using HTML and CSS
+# Portfolio-Website
+I developed a Portfolio website using HTML and CSS
